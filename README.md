@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working as a Product Analyst at **Alibaba Group**
 
-- 🌱 I’m currently learning **new Data Analysis Framworks**
+- 🌱 I’m currently learning new **Data Analysis Framworks**
 
 - 👯 I’m going to pursue my degree in Data Analysis at **University of Massachusetts Amherst**
 
