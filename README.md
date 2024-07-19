@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning new **Data Analysis Framworks**
 
-- 👯 I’m going to pursue my degree in Data Analysis at **University of Massachusetts Amherst**
+- 👯 I’m going to pursue my Master of Science in Data Analysis at **University of Massachusetts Amherst**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
