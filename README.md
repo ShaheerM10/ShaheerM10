@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Analyst</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hello GIF" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hello GIF" width="250"/>
 </p>
 
 ---
@@ -109,21 +109,6 @@ Utilized clustering algorithms in Python to segment customers based on purchasin
 
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-
----
-
-## 🏆 Achievements
-
-- **Hackathon Winner** at [DataFest 2023](https://datafest.example.com)
-- **Top Contributor** in [Pandas](https://github.com/pandas-dev/pandas) repository
-
----
-
-## 🎉 Fun Facts
-
-- Avid **photographer** and enjoy capturing landscapes.
-- Love **traveling** and have visited 15 countries so far.
-- **Coffee enthusiast** ☕ – Always on the lookout for the perfect brew!
 
 ---
 
