@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaheer Mahmood</h1>
 <h3 align="center">A Passionate Data Analyst</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hello GIF" width="250"/>
-</p>
-
 ---
 
 ## 🔭 Current Work
